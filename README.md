@@ -8,5 +8,5 @@ Using open sensor data to model and predict pollution levels
 - Pollutant: NO₂ (identified via official contaminant code metadata)
 - Station: [station_id / name]
 
-Raw data is stored in `data/raw/` without modification.
+Raw data is stored in `data/: without modification.
  
