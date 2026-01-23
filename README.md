@@ -1,4 +1,12 @@
 Air Quality Forecasting and Analysis in Barcelona
 Using open sensor data to model and predict pollution levels
 
-data from: https://opendata-ajuntament.barcelona.cat/
+## Data
+
+- Source: Barcelona Open Data portal(https://opendata-ajuntament.barcelona.cat/)
+- Dataset: Hourly air quality measurements (validated)
+- Pollutant: NO₂ (identified via official contaminant code metadata)
+- Station: [station_id / name]
+
+Raw data is stored in `data/raw/` without modification.
+ 
