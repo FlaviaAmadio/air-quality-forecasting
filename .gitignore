@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Data ---
+data/
+
+# --- Virtual environments ---
+.env
+.venv
+env/
+venv/
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
