@@ -1,6 +1,5 @@
-Air Quality Forecasting and Analysis in Barcelona
+Air Quality Forecasting and Analysis in Barcelona (work in progress)
 Using open sensor data to model and predict pollution levels
-
 ## Data
 
 - Source: Barcelona Open Data portal(https://opendata-ajuntament.barcelona.cat/)
@@ -10,5 +9,4 @@ Using open sensor data to model and predict pollution levels
 
 Raw data is stored in `data/: without modification.
 
-work in progress
  
