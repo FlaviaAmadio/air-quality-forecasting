@@ -1,4 +1,4 @@
-Air Quality Forecasting and Analysis in Barcelona (work in progress)
+Air Quality Forecasting and Analysis in Barcelona (work in progress) \n
 Using open sensor data to model and predict pollution levels
 ## Data
 
